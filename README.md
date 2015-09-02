@@ -3,8 +3,7 @@
 
 Idea from: [iOS GPUImage framework](https://github.com/BradLarson/GPUImage)
 
-#个人修改使用GUP直接转换 YUV 到 RGB  
-
+#个人参照修改使用GUP直接转换 YUV 到 RGB   
 [Android OpenGL es GPUImage  by GPU convert YUV to RGB](https://www.zybuluo.com/hai046/note/150753)
 
 Goal is to have something as similar to GPUImage as possible. Vertex and fragment shaders are exactly the same. That way it makes it easier to port filters from GPUImage iOS to Android.
