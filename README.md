@@ -1,6 +1,6 @@
 ###个人参照修改使用GUP直接转换 YUV 到 RGB   [Android OpenGL es GPUImage  by GPU convert YUV to RGB](https://www.zybuluo.com/hai046/note/150753)
 
-
+根据原来修改后的fragment shader 脚本在  haizhu_fs目录下
 
 
 ----
